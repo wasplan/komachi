@@ -2,7 +2,7 @@
   "name": "komachi",
   "version": "2.1.0",
   "engines": {
-    "node": ">=14.17.3"
+    "node": "=14.17.3"
   },
   "private": true,
   "author": {
